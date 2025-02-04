@@ -1,0 +1,526 @@
+﻿Customer ID,Order ID,Product,Units Sold,Date,Revenue,Cost,Profit
+DMart,779279,Natural Fruit Juice,313,01-01-2022,"₹ 15,680","₹ 6,272","₹ 9,408"
+Star Bazaar,684759,Natural Fruit Juice,476,02-01-2022,"₹ 23,800","₹ 9,520","₹ 14,280"
+Big Bazaar,426268,Savlon Hand Wash,37,02-01-2022,"₹ 2,250",₹ 938,"₹ 1,312"
+Big Bazaar,824253,Natural Fruit Juice,197,04-01-2022,"₹ 9,890","₹ 3,956","₹ 5,934"
+Reliance Fresh,249663,Natural Fruit Juice,536,05-01-2022,"₹ 26,830","₹ 10,732","₹ 16,098"
+Big Bazaar,533611,Yippie Noodles,200,05-01-2022,"₹ 1,000",₹ 200,₹ 800
+JioMart,775360,Savlon Hand Wash,49,05-01-2022,"₹ 2,976","₹ 1,240","₹ 1,736"
+JioMart,776532,Natural Fruit Juice,163,06-01-2022,"₹ 8,190","₹ 3,276","₹ 4,914"
+Big Bazaar,897372,Savlon Hand Wash,107,07-01-2022,"₹ 6,456","₹ 2,690","₹ 3,766"
+Reliance Fresh,617395,Bingo Potato Chips,126,08-01-2022,"₹ 1,898",₹ 949,₹ 949
+DMart,806592,Savlon Hand Wash,216,08-01-2022,"₹ 12,966","₹ 5,403","₹ 7,563"
+DMart,887151,Bingo Potato Chips,235,09-01-2022,"₹ 3,530","₹ 1,765","₹ 1,765"
+Star Bazaar,218006,Savlon Hand Wash,127,09-01-2022,"₹ 7,620","₹ 3,175","₹ 4,445"
+Big Bazaar,775311,Savlon Hand Wash,231,09-01-2022,"₹ 13,914","₹ 5,798","₹ 8,116"
+Star Bazaar,255145,Natural Fruit Juice,512,13-01-2022,"₹ 25,640","₹ 10,256","₹ 15,384"
+Big Bazaar,818350,Savlon Hand Wash,37,13-01-2022,"₹ 2,250",₹ 938,"₹ 1,312"
+Star Bazaar,562219,Natural Fruit Juice,542,14-01-2022,"₹ 27,130","₹ 10,852","₹ 16,278"
+DMart,503244,Yippie Noodles,165,15-01-2022,₹ 827,₹ 165,₹ 662
+Star Bazaar,494228,Yippie Noodles,146,15-01-2022,₹ 733,₹ 147,₹ 586
+Big Bazaar,310429,Sunbean Coffee Powder,108,16-01-2022,"₹ 2,174",₹ 978,"₹ 1,196"
+JioMart,694579,Sunbean Coffee Powder,292,17-01-2022,"₹ 5,850","₹ 2,633","₹ 3,217"
+Star Bazaar,464499,Savlon Hand Wash,211,17-01-2022,"₹ 12,702","₹ 5,293","₹ 7,409"
+Big Bazaar,433556,Yippie Noodles,132,18-01-2022,₹ 662,₹ 132,₹ 530
+Star Bazaar,143923,Natural Fruit Juice,334,20-01-2022,"₹ 16,720","₹ 6,688","₹ 10,032"
+Big Bazaar,643111,Natural Fruit Juice,429,22-01-2022,"₹ 21,450","₹ 8,580","₹ 12,870"
+Star Bazaar,388978,Natural Fruit Juice,161,23-01-2022,"₹ 8,060","₹ 3,224","₹ 4,836"
+Star Bazaar,121808,Natural Fruit Juice,156,23-01-2022,"₹ 7,820","₹ 3,128","₹ 4,692"
+Star Bazaar,759484,Sunbean Coffee Powder,239,23-01-2022,"₹ 4,794","₹ 2,157","₹ 2,637"
+Big Bazaar,539656,Sunbean Coffee Powder,171,23-01-2022,"₹ 3,424","₹ 1,541","₹ 1,883"
+JioMart,444225,Natural Fruit Juice,536,24-01-2022,"₹ 26,840","₹ 10,736","₹ 16,104"
+Reliance Fresh,527753,Natural Fruit Juice,356,25-01-2022,"₹ 17,800","₹ 7,120","₹ 10,680"
+JioMart,809091,Natural Fruit Juice,179,25-01-2022,"₹ 8,950","₹ 3,580","₹ 5,370"
+DMart,762271,Bingo Potato Chips,19,25-01-2022,₹ 296,₹ 148,₹ 148
+Reliance Fresh,165918,Savlon Hand Wash,289,25-01-2022,"₹ 17,394","₹ 7,248","₹ 10,146"
+Reliance Fresh,570270,Yippie Noodles,122,26-01-2022,₹ 611,₹ 122,₹ 489
+Big Bazaar,507202,Savlon Hand Wash,238,27-01-2022,"₹ 14,280","₹ 5,950","₹ 8,330"
+Big Bazaar,837170,Natural Fruit Juice,404,28-01-2022,"₹ 20,230","₹ 8,092","₹ 12,138"
+JioMart,710702,Savlon Hand Wash,232,28-01-2022,"₹ 13,920","₹ 5,800","₹ 8,120"
+Star Bazaar,698245,Natural Fruit Juice,96,30-01-2022,"₹ 4,840","₹ 1,936","₹ 2,904"
+JioMart,550816,Natural Fruit Juice,123,31-01-2022,"₹ 6,150","₹ 2,460","₹ 3,690"
+JioMart,865204,Sunbean Coffee Powder,112,31-01-2022,"₹ 2,256","₹ 1,015","₹ 1,241"
+DMart,265959,Savlon Hand Wash,285,31-01-2022,"₹ 17,118","₹ 7,133","₹ 9,985"
+Star Bazaar,686661,Dark Fantasy Biscuits,111,01-02-2022,"₹ 2,775","₹ 1,388","₹ 1,387"
+JioMart,414407,Bingo Potato Chips,243,02-02-2022,"₹ 3,657","₹ 1,829","₹ 1,828"
+Reliance Fresh,529578,Natural Fruit Juice,487,04-02-2022,"₹ 24,380","₹ 9,752","₹ 14,628"
+Star Bazaar,324307,Bingo Potato Chips,143,04-02-2022,"₹ 2,159","₹ 1,079","₹ 1,080"
+JioMart,233911,Savlon Hand Wash,241,04-02-2022,"₹ 14,478","₹ 6,033","₹ 8,445"
+Reliance Fresh,864063,Savlon Hand Wash,286,04-02-2022,"₹ 17,166","₹ 7,153","₹ 10,013"
+DMart,617339,Savlon Hand Wash,204,04-02-2022,"₹ 12,258","₹ 5,108","₹ 7,150"
+Reliance Fresh,103888,Dark Fantasy Biscuits,74,05-02-2022,"₹ 1,850",₹ 925,₹ 925
+DMart,847731,Savlon Hand Wash,52,05-02-2022,"₹ 3,132","₹ 1,305","₹ 1,827"
+JioMart,130685,Yippie Noodles,225,06-02-2022,"₹ 1,129",₹ 226,₹ 903
+Reliance Fresh,411519,Sunbean Coffee Powder,192,06-02-2022,"₹ 3,842","₹ 1,729","₹ 2,113"
+JioMart,673372,Savlon Hand Wash,101,06-02-2022,"₹ 6,078","₹ 2,533","₹ 3,545"
+Reliance Fresh,177011,Natural Fruit Juice,123,07-02-2022,"₹ 6,180","₹ 2,472","₹ 3,708"
+Star Bazaar,103112,Sunbean Coffee Powder,175,07-02-2022,"₹ 3,506","₹ 1,578","₹ 1,928"
+Reliance Fresh,363487,Sunbean Coffee Powder,140,07-02-2022,"₹ 2,804","₹ 1,262","₹ 1,542"
+Star Bazaar,528145,Bingo Potato Chips,87,09-02-2022,"₹ 1,308",₹ 654,₹ 654
+Star Bazaar,561083,Yippie Noodles,17,10-02-2022,₹ 90,₹ 18,₹ 72
+DMart,881771,Yippie Noodles,23,12-02-2022,₹ 116,₹ 23,₹ 93
+Big Bazaar,330030,Bingo Potato Chips,90,12-02-2022,"₹ 1,353",₹ 677,₹ 676
+Star Bazaar,171515,Natural Fruit Juice,521,16-02-2022,"₹ 26,060","₹ 10,424","₹ 15,636"
+Big Bazaar,487819,Yippie Noodles,140,17-02-2022,₹ 703,₹ 141,₹ 562
+Star Bazaar,357838,Dark Fantasy Biscuits,198,17-02-2022,"₹ 4,960","₹ 2,480","₹ 2,480"
+JioMart,283163,Dark Fantasy Biscuits,243,17-02-2022,"₹ 6,090","₹ 3,045","₹ 3,045"
+Star Bazaar,199710,Sunbean Coffee Powder,73,17-02-2022,"₹ 1,462",₹ 658,₹ 804
+Star Bazaar,390387,Yippie Noodles,196,19-02-2022,₹ 985,₹ 197,₹ 788
+Star Bazaar,444518,Bingo Potato Chips,67,19-02-2022,"₹ 1,013",₹ 506,₹ 507
+Reliance Fresh,608863,Natural Fruit Juice,456,20-02-2022,"₹ 22,820","₹ 9,128","₹ 13,692"
+Star Bazaar,609228,Dark Fantasy Biscuits,107,20-02-2022,"₹ 2,690","₹ 1,345","₹ 1,345"
+DMart,801641,Yippie Noodles,90,21-02-2022,₹ 450,₹ 90,₹ 360
+Reliance Fresh,707748,Dark Fantasy Biscuits,55,21-02-2022,"₹ 1,390",₹ 695,₹ 695
+Star Bazaar,141979,Yippie Noodles,240,23-02-2022,"₹ 1,202",₹ 240,₹ 962
+Star Bazaar,436809,Natural Fruit Juice,283,25-02-2022,"₹ 14,170","₹ 5,668","₹ 8,502"
+JioMart,768268,Sunbean Coffee Powder,244,25-02-2022,"₹ 4,886","₹ 2,199","₹ 2,687"
+Star Bazaar,625104,Savlon Hand Wash,75,25-02-2022,"₹ 4,530","₹ 1,888","₹ 2,642"
+Reliance Fresh,711452,Yippie Noodles,181,26-02-2022,₹ 905,₹ 181,₹ 724
+JioMart,481875,Natural Fruit Juice,295,27-02-2022,"₹ 14,750","₹ 5,900","₹ 8,850"
+Star Bazaar,464364,Bingo Potato Chips,72,28-02-2022,"₹ 1,092",₹ 546,₹ 546
+JioMart,739483,Dark Fantasy Biscuits,121,02-03-2022,"₹ 3,040","₹ 1,520","₹ 1,520"
+Star Bazaar,747194,Bingo Potato Chips,237,02-03-2022,"₹ 3,564","₹ 1,782","₹ 1,782"
+JioMart,885205,Natural Fruit Juice,180,04-03-2022,"₹ 9,000","₹ 3,600","₹ 5,400"
+Big Bazaar,356550,Savlon Hand Wash,263,04-03-2022,"₹ 15,780","₹ 6,575","₹ 9,205"
+Star Bazaar,120842,Natural Fruit Juice,83,05-03-2022,"₹ 4,190","₹ 1,676","₹ 2,514"
+Reliance Fresh,818048,Bingo Potato Chips,203,05-03-2022,"₹ 3,047","₹ 1,523","₹ 1,524"
+JioMart,796346,Natural Fruit Juice,270,07-03-2022,"₹ 13,510","₹ 5,404","₹ 8,106"
+Reliance Fresh,242657,Sunbean Coffee Powder,84,07-03-2022,"₹ 1,692",₹ 761,₹ 931
+Big Bazaar,734809,Dark Fantasy Biscuits,160,08-03-2022,"₹ 4,005","₹ 2,003","₹ 2,002"
+Big Bazaar,183779,Dark Fantasy Biscuits,134,10-03-2022,"₹ 3,373","₹ 1,686","₹ 1,687"
+JioMart,552346,Savlon Hand Wash,225,11-03-2022,"₹ 13,518","₹ 5,633","₹ 7,885"
+Reliance Fresh,335658,Natural Fruit Juice,227,13-03-2022,"₹ 11,370","₹ 4,548","₹ 6,822"
+Star Bazaar,652401,Yippie Noodles,22,13-03-2022,₹ 114,₹ 23,₹ 91
+DMart,148871,Dark Fantasy Biscuits,49,13-03-2022,"₹ 1,225",₹ 613,₹ 612
+DMart,685153,Savlon Hand Wash,206,13-03-2022,"₹ 12,372","₹ 5,155","₹ 7,217"
+Star Bazaar,602911,Sunbean Coffee Powder,152,14-03-2022,"₹ 3,040","₹ 1,368","₹ 1,672"
+Big Bazaar,638098,Savlon Hand Wash,89,15-03-2022,"₹ 5,394","₹ 2,248","₹ 3,146"
+Star Bazaar,703612,Bingo Potato Chips,283,16-03-2022,"₹ 4,257","₹ 2,129","₹ 2,128"
+Big Bazaar,250308,Savlon Hand Wash,149,16-03-2022,"₹ 8,940","₹ 3,725","₹ 5,215"
+Star Bazaar,375461,Savlon Hand Wash,40,16-03-2022,"₹ 2,448","₹ 1,020","₹ 1,428"
+Reliance Fresh,160577,Bingo Potato Chips,250,17-03-2022,"₹ 3,750","₹ 1,875","₹ 1,875"
+Star Bazaar,867837,Bingo Potato Chips,289,17-03-2022,"₹ 4,337","₹ 2,168","₹ 2,169"
+Star Bazaar,433084,Savlon Hand Wash,214,17-03-2022,"₹ 12,852","₹ 5,355","₹ 7,497"
+JioMart,581762,Savlon Hand Wash,283,18-03-2022,"₹ 17,034","₹ 7,098","₹ 9,936"
+Reliance Fresh,619210,Bingo Potato Chips,168,19-03-2022,"₹ 2,532","₹ 1,266","₹ 1,266"
+Big Bazaar,820943,Bingo Potato Chips,34,19-03-2022,₹ 516,₹ 258,₹ 258
+Star Bazaar,434964,Yippie Noodles,163,20-03-2022,₹ 819,₹ 164,₹ 655
+JioMart,156617,Yippie Noodles,140,21-03-2022,₹ 702,₹ 140,₹ 562
+Reliance Fresh,119754,Yippie Noodles,248,23-03-2022,"₹ 1,245",₹ 249,₹ 996
+JioMart,757336,Yippie Noodles,74,23-03-2022,₹ 373,₹ 75,₹ 298
+Big Bazaar,334678,Natural Fruit Juice,265,24-03-2022,"₹ 13,280","₹ 5,312","₹ 7,968"
+Reliance Fresh,210209,Bingo Potato Chips,96,25-03-2022,"₹ 1,440",₹ 720,₹ 720
+Big Bazaar,358173,Bingo Potato Chips,97,25-03-2022,"₹ 1,464",₹ 732,₹ 732
+JioMart,459280,Yippie Noodles,49,26-03-2022,₹ 250,₹ 50,₹ 200
+JioMart,454312,Yippie Noodles,94,26-03-2022,₹ 474,₹ 95,₹ 379
+Reliance Fresh,841420,Dark Fantasy Biscuits,205,26-03-2022,"₹ 5,128","₹ 2,564","₹ 2,564"
+Reliance Fresh,587035,Natural Fruit Juice,192,27-03-2022,"₹ 9,640","₹ 3,856","₹ 5,784"
+Reliance Fresh,280321,Yippie Noodles,237,28-03-2022,"₹ 1,187",₹ 237,₹ 950
+Star Bazaar,169621,Savlon Hand Wash,281,28-03-2022,"₹ 16,878","₹ 7,033","₹ 9,845"
+Big Bazaar,751733,Savlon Hand Wash,93,29-03-2022,"₹ 5,598","₹ 2,333","₹ 3,265"
+Big Bazaar,151130,Bingo Potato Chips,79,30-03-2022,"₹ 1,188",₹ 594,₹ 594
+DMart,807061,Natural Fruit Juice,197,31-03-2022,"₹ 9,860","₹ 3,944","₹ 5,916"
+Big Bazaar,701669,Bingo Potato Chips,65,31-03-2022,₹ 977,₹ 488,₹ 489
+Star Bazaar,584477,Savlon Hand Wash,178,31-03-2022,"₹ 10,704","₹ 4,460","₹ 6,244"
+JioMart,443447,Sunbean Coffee Powder,124,01-04-2022,"₹ 2,480","₹ 1,116","₹ 1,364"
+DMart,428131,Savlon Hand Wash,34,02-04-2022,"₹ 2,070",₹ 863,"₹ 1,207"
+Star Bazaar,681348,Dark Fantasy Biscuits,265,03-04-2022,"₹ 6,638","₹ 3,319","₹ 3,319"
+JioMart,488771,Savlon Hand Wash,84,03-04-2022,"₹ 5,058","₹ 2,108","₹ 2,950"
+DMart,741049,Savlon Hand Wash,285,04-04-2022,"₹ 17,118","₹ 7,133","₹ 9,985"
+DMart,779126,Natural Fruit Juice,413,07-04-2022,"₹ 20,660","₹ 8,264","₹ 12,396"
+Star Bazaar,745878,Sunbean Coffee Powder,121,07-04-2022,"₹ 2,422","₹ 1,090","₹ 1,332"
+DMart,144559,Bingo Potato Chips,211,07-04-2022,"₹ 3,165","₹ 1,583","₹ 1,582"
+DMart,293680,Sunbean Coffee Powder,29,10-04-2022,₹ 590,₹ 266,₹ 324
+JioMart,424398,Dark Fantasy Biscuits,162,11-04-2022,"₹ 4,060","₹ 2,030","₹ 2,030"
+DMart,218291,Natural Fruit Juice,78,12-04-2022,"₹ 3,900","₹ 1,560","₹ 2,340"
+JioMart,690780,Natural Fruit Juice,82,13-04-2022,"₹ 4,140","₹ 1,656","₹ 2,484"
+Reliance Fresh,847203,Natural Fruit Juice,457,13-04-2022,"₹ 22,880","₹ 9,152","₹ 13,728"
+Big Bazaar,149035,Savlon Hand Wash,261,13-04-2022,"₹ 15,678","₹ 6,533","₹ 9,145"
+JioMart,399302,Dark Fantasy Biscuits,254,14-04-2022,"₹ 6,360","₹ 3,180","₹ 3,180"
+JioMart,439635,Bingo Potato Chips,273,14-04-2022,"₹ 4,106","₹ 2,053","₹ 2,053"
+Reliance Fresh,792599,Bingo Potato Chips,151,14-04-2022,"₹ 2,267","₹ 1,133","₹ 1,134"
+Reliance Fresh,714255,Natural Fruit Juice,530,15-04-2022,"₹ 26,520","₹ 10,608","₹ 15,912"
+JioMart,137921,Dark Fantasy Biscuits,293,16-04-2022,"₹ 7,343","₹ 3,671","₹ 3,672"
+DMart,311475,Savlon Hand Wash,23,16-04-2022,"₹ 1,422",₹ 593,₹ 829
+Big Bazaar,382008,Savlon Hand Wash,56,16-04-2022,"₹ 3,384","₹ 1,410","₹ 1,974"
+JioMart,574744,Yippie Noodles,45,17-04-2022,₹ 228,₹ 46,₹ 182
+Star Bazaar,100553,Natural Fruit Juice,479,20-04-2022,"₹ 23,980","₹ 9,592","₹ 14,388"
+Reliance Fresh,283378,Natural Fruit Juice,362,21-04-2022,"₹ 18,120","₹ 7,248","₹ 10,872"
+JioMart,868182,Natural Fruit Juice,268,23-04-2022,"₹ 13,430","₹ 5,372","₹ 8,058"
+Reliance Fresh,126864,Natural Fruit Juice,271,23-04-2022,"₹ 13,580","₹ 5,432","₹ 8,148"
+DMart,818777,Yippie Noodles,245,23-04-2022,"₹ 1,227",₹ 245,₹ 982
+JioMart,735280,Bingo Potato Chips,233,24-04-2022,"₹ 3,497","₹ 1,748","₹ 1,749"
+Reliance Fresh,123431,Natural Fruit Juice,132,25-04-2022,"₹ 6,620","₹ 2,648","₹ 3,972"
+JioMart,307196,Natural Fruit Juice,51,25-04-2022,"₹ 2,580","₹ 1,032","₹ 1,548"
+DMart,197116,Savlon Hand Wash,134,25-04-2022,"₹ 8,040","₹ 3,350","₹ 4,690"
+JioMart,899743,Savlon Hand Wash,249,26-04-2022,"₹ 14,946","₹ 6,228","₹ 8,718"
+JioMart,219898,Yippie Noodles,268,27-04-2022,"₹ 1,342",₹ 268,"₹ 1,074"
+JioMart,702523,Dark Fantasy Biscuits,161,30-04-2022,"₹ 4,040","₹ 2,020","₹ 2,020"
+JioMart,601636,Sunbean Coffee Powder,279,30-04-2022,"₹ 5,580","₹ 2,511","₹ 3,069"
+Star Bazaar,567117,Savlon Hand Wash,111,01-05-2022,"₹ 6,660","₹ 2,775","₹ 3,885"
+Reliance Fresh,727045,Bingo Potato Chips,264,02-05-2022,"₹ 3,966","₹ 1,983","₹ 1,983"
+Star Bazaar,168032,Savlon Hand Wash,113,02-05-2022,"₹ 6,804","₹ 2,835","₹ 3,969"
+Star Bazaar,103317,Natural Fruit Juice,77,03-05-2022,"₹ 3,860","₹ 1,544","₹ 2,316"
+Star Bazaar,683349,Dark Fantasy Biscuits,84,03-05-2022,"₹ 2,120","₹ 1,060","₹ 1,060"
+Big Bazaar,800536,Bingo Potato Chips,89,04-05-2022,"₹ 1,337",₹ 668,₹ 669
+Star Bazaar,540063,Dark Fantasy Biscuits,60,06-05-2022,"₹ 1,510",₹ 755,₹ 755
+Star Bazaar,227728,Yippie Noodles,219,07-05-2022,"₹ 1,098",₹ 220,₹ 878
+Big Bazaar,561318,Bingo Potato Chips,33,07-05-2022,₹ 501,₹ 251,₹ 250
+Star Bazaar,788375,Natural Fruit Juice,494,08-05-2022,"₹ 24,730","₹ 9,892","₹ 14,838"
+Star Bazaar,365463,Natural Fruit Juice,386,09-05-2022,"₹ 19,340","₹ 7,736","₹ 11,604"
+Star Bazaar,724808,Yippie Noodles,204,10-05-2022,"₹ 1,024",₹ 205,₹ 819
+Star Bazaar,551372,Dark Fantasy Biscuits,217,10-05-2022,"₹ 5,428","₹ 2,714","₹ 2,714"
+Star Bazaar,374010,Natural Fruit Juice,295,11-05-2022,"₹ 14,760","₹ 5,904","₹ 8,856"
+Reliance Fresh,742570,Yippie Noodles,197,11-05-2022,₹ 990,₹ 198,₹ 792
+DMart,675035,Natural Fruit Juice,350,12-05-2022,"₹ 17,510","₹ 7,004","₹ 10,506"
+Big Bazaar,209116,Natural Fruit Juice,422,13-05-2022,"₹ 21,110","₹ 8,444","₹ 12,666"
+JioMart,249098,Yippie Noodles,142,13-05-2022,₹ 713,₹ 143,₹ 570
+Star Bazaar,751314,Savlon Hand Wash,38,13-05-2022,"₹ 2,310",₹ 963,"₹ 1,347"
+Star Bazaar,786700,Dark Fantasy Biscuits,247,14-05-2022,"₹ 6,185","₹ 3,093","₹ 3,092"
+JioMart,251968,Natural Fruit Juice,441,15-05-2022,"₹ 22,050","₹ 8,820","₹ 13,230"
+Star Bazaar,300303,Natural Fruit Juice,130,15-05-2022,"₹ 6,510","₹ 2,604","₹ 3,906"
+JioMart,455417,Sunbean Coffee Powder,263,15-05-2022,"₹ 5,262","₹ 2,368","₹ 2,894"
+Star Bazaar,641259,Bingo Potato Chips,274,16-05-2022,"₹ 4,115","₹ 2,057","₹ 2,058"
+DMart,600167,Savlon Hand Wash,206,16-05-2022,"₹ 12,402","₹ 5,168","₹ 7,234"
+JioMart,579016,Natural Fruit Juice,599,17-05-2022,"₹ 29,950","₹ 11,980","₹ 17,970"
+Star Bazaar,844763,Natural Fruit Juice,490,17-05-2022,"₹ 24,530","₹ 9,812","₹ 14,718"
+Big Bazaar,320688,Natural Fruit Juice,197,17-05-2022,"₹ 9,870","₹ 3,948","₹ 5,922"
+Star Bazaar,697568,Natural Fruit Juice,484,19-05-2022,"₹ 24,200","₹ 9,680","₹ 14,520"
+JioMart,120233,Dark Fantasy Biscuits,269,19-05-2022,"₹ 6,748","₹ 3,374","₹ 3,374"
+Star Bazaar,239419,Natural Fruit Juice,78,21-05-2022,"₹ 3,910","₹ 1,564","₹ 2,346"
+Star Bazaar,449939,Sunbean Coffee Powder,133,22-05-2022,"₹ 2,662","₹ 1,198","₹ 1,464"
+Big Bazaar,765978,Savlon Hand Wash,236,23-05-2022,"₹ 14,202","₹ 5,918","₹ 8,284"
+DMart,481324,Natural Fruit Juice,242,24-05-2022,"₹ 12,140","₹ 4,856","₹ 7,284"
+Big Bazaar,353832,Yippie Noodles,185,25-05-2022,₹ 930,₹ 186,₹ 744
+Big Bazaar,774130,Bingo Potato Chips,295,25-05-2022,"₹ 4,431","₹ 2,216","₹ 2,215"
+JioMart,521663,Bingo Potato Chips,200,25-05-2022,"₹ 3,012","₹ 1,506","₹ 1,506"
+Star Bazaar,578917,Dark Fantasy Biscuits,149,26-05-2022,"₹ 3,745","₹ 1,873","₹ 1,872"
+JioMart,752965,Bingo Potato Chips,182,27-05-2022,"₹ 2,741","₹ 1,370","₹ 1,371"
+Star Bazaar,365552,Natural Fruit Juice,261,28-05-2022,"₹ 13,050","₹ 5,220","₹ 7,830"
+Reliance Fresh,372739,Sunbean Coffee Powder,141,28-05-2022,"₹ 2,832","₹ 1,274","₹ 1,558"
+Reliance Fresh,560670,Dark Fantasy Biscuits,61,29-05-2022,"₹ 1,528",₹ 764,₹ 764
+Reliance Fresh,273665,Sunbean Coffee Powder,258,29-05-2022,"₹ 5,160","₹ 2,322","₹ 2,838"
+JioMart,495847,Sunbean Coffee Powder,94,29-05-2022,"₹ 1,894",₹ 852,"₹ 1,042"
+Big Bazaar,899502,Bingo Potato Chips,16,29-05-2022,₹ 245,₹ 122,₹ 123
+Big Bazaar,348619,Dark Fantasy Biscuits,18,30-05-2022,₹ 460,₹ 230,₹ 230
+JioMart,429472,Natural Fruit Juice,352,31-05-2022,"₹ 17,640","₹ 7,056","₹ 10,584"
+JioMart,160202,Natural Fruit Juice,255,31-05-2022,"₹ 12,790","₹ 5,116","₹ 7,674"
+JioMart,272243,Yippie Noodles,247,31-05-2022,"₹ 1,239",₹ 248,₹ 991
+JioMart,338090,Sunbean Coffee Powder,282,31-05-2022,"₹ 5,646","₹ 2,541","₹ 3,105"
+Big Bazaar,164895,Natural Fruit Juice,346,03-06-2022,"₹ 17,330","₹ 6,932","₹ 10,398"
+Reliance Fresh,703997,Natural Fruit Juice,502,04-06-2022,"₹ 25,110","₹ 10,044","₹ 15,066"
+Big Bazaar,541297,Yippie Noodles,159,04-06-2022,₹ 795,₹ 159,₹ 636
+JioMart,304806,Savlon Hand Wash,108,04-06-2022,"₹ 6,492","₹ 2,705","₹ 3,787"
+Star Bazaar,159484,Natural Fruit Juice,563,05-06-2022,"₹ 28,190","₹ 11,276","₹ 16,914"
+Big Bazaar,123693,Natural Fruit Juice,102,07-06-2022,"₹ 5,140","₹ 2,056","₹ 3,084"
+Star Bazaar,272552,Dark Fantasy Biscuits,266,07-06-2022,"₹ 6,658","₹ 3,329","₹ 3,329"
+JioMart,595670,Natural Fruit Juice,445,08-06-2022,"₹ 22,250","₹ 8,900","₹ 13,350"
+DMart,628954,Bingo Potato Chips,261,08-06-2022,"₹ 3,923","₹ 1,961","₹ 1,962"
+JioMart,361305,Natural Fruit Juice,518,10-06-2022,"₹ 25,940","₹ 10,376","₹ 15,564"
+JioMart,666684,Bingo Potato Chips,152,11-06-2022,"₹ 2,292","₹ 1,146","₹ 1,146"
+JioMart,140516,Dark Fantasy Biscuits,111,12-06-2022,"₹ 2,790","₹ 1,395","₹ 1,395"
+JioMart,605154,Yippie Noodles,148,13-06-2022,₹ 743,₹ 149,₹ 594
+DMart,327845,Bingo Potato Chips,103,13-06-2022,"₹ 1,554",₹ 777,₹ 777
+Reliance Fresh,816536,Natural Fruit Juice,205,14-06-2022,"₹ 10,250","₹ 4,100","₹ 6,150"
+JioMart,858434,Sunbean Coffee Powder,94,14-06-2022,"₹ 1,882",₹ 847,"₹ 1,035"
+Reliance Fresh,565067,Bingo Potato Chips,89,14-06-2022,"₹ 1,335",₹ 668,₹ 667
+Big Bazaar,609418,Savlon Hand Wash,38,15-06-2022,"₹ 2,310",₹ 963,"₹ 1,347"
+DMart,665489,Dark Fantasy Biscuits,101,16-06-2022,"₹ 2,533","₹ 1,266","₹ 1,267"
+Big Bazaar,397049,Yippie Noodles,280,17-06-2022,"₹ 1,402",₹ 280,"₹ 1,122"
+DMart,241164,Sunbean Coffee Powder,228,17-06-2022,"₹ 4,564","₹ 2,054","₹ 2,510"
+Big Bazaar,348955,Sunbean Coffee Powder,43,17-06-2022,₹ 876,₹ 394,₹ 482
+Star Bazaar,871331,Bingo Potato Chips,19,17-06-2022,₹ 290,₹ 145,₹ 145
+JioMart,684001,Sunbean Coffee Powder,60,19-06-2022,"₹ 1,208",₹ 544,₹ 664
+Big Bazaar,253981,Savlon Hand Wash,190,19-06-2022,"₹ 11,418","₹ 4,758","₹ 6,660"
+Big Bazaar,776513,Natural Fruit Juice,477,20-06-2022,"₹ 23,880","₹ 9,552","₹ 14,328"
+JioMart,558408,Dark Fantasy Biscuits,179,20-06-2022,"₹ 4,480","₹ 2,240","₹ 2,240"
+DMart,551997,Sunbean Coffee Powder,133,20-06-2022,"₹ 2,664","₹ 1,199","₹ 1,465"
+Star Bazaar,120418,Savlon Hand Wash,217,21-06-2022,"₹ 13,044","₹ 5,435","₹ 7,609"
+DMart,729194,Savlon Hand Wash,81,21-06-2022,"₹ 4,872","₹ 2,030","₹ 2,842"
+JioMart,531656,Dark Fantasy Biscuits,60,22-06-2022,"₹ 1,515",₹ 758,₹ 757
+Star Bazaar,235897,Dark Fantasy Biscuits,79,22-06-2022,"₹ 1,980",₹ 990,₹ 990
+Big Bazaar,384410,Bingo Potato Chips,20,22-06-2022,₹ 311,₹ 155,₹ 156
+DMart,483789,Sunbean Coffee Powder,29,23-06-2022,₹ 596,₹ 268,₹ 328
+Star Bazaar,559561,Bingo Potato Chips,116,23-06-2022,"₹ 1,746",₹ 873,₹ 873
+Star Bazaar,397386,Savlon Hand Wash,117,23-06-2022,"₹ 7,062","₹ 2,943","₹ 4,119"
+Big Bazaar,603195,Natural Fruit Juice,352,26-06-2022,"₹ 17,600","₹ 7,040","₹ 10,560"
+Big Bazaar,707082,Dark Fantasy Biscuits,167,26-06-2022,"₹ 4,188","₹ 2,094","₹ 2,094"
+Star Bazaar,170514,Natural Fruit Juice,144,27-06-2022,"₹ 7,210","₹ 2,884","₹ 4,326"
+Big Bazaar,644843,Bingo Potato Chips,273,27-06-2022,"₹ 4,101","₹ 2,051","₹ 2,050"
+Reliance Fresh,494850,Bingo Potato Chips,240,27-06-2022,"₹ 3,606","₹ 1,803","₹ 1,803"
+Star Bazaar,842675,Dark Fantasy Biscuits,142,28-06-2022,"₹ 3,560","₹ 1,780","₹ 1,780"
+Star Bazaar,382237,Dark Fantasy Biscuits,208,29-06-2022,"₹ 5,223","₹ 2,611","₹ 2,612"
+JioMart,858867,Sunbean Coffee Powder,100,29-06-2022,"₹ 2,002",₹ 901,"₹ 1,101"
+DMart,643742,Savlon Hand Wash,56,29-06-2022,"₹ 3,384","₹ 1,410","₹ 1,974"
+Big Bazaar,628402,Natural Fruit Juice,468,30-06-2022,"₹ 23,410","₹ 9,364","₹ 14,046"
+JioMart,686090,Natural Fruit Juice,324,30-06-2022,"₹ 16,220","₹ 6,488","₹ 9,732"
+Star Bazaar,600124,Natural Fruit Juice,508,30-06-2022,"₹ 25,410","₹ 10,164","₹ 15,246"
+Big Bazaar,332447,Natural Fruit Juice,578,01-07-2022,"₹ 28,940","₹ 11,576","₹ 17,364"
+JioMart,632637,Sunbean Coffee Powder,66,02-07-2022,"₹ 1,320",₹ 594,₹ 726
+JioMart,715966,Yippie Noodles,282,03-07-2022,"₹ 1,411",₹ 282,"₹ 1,129"
+Big Bazaar,336267,Natural Fruit Juice,224,04-07-2022,"₹ 11,200","₹ 4,480","₹ 6,720"
+Star Bazaar,183251,Natural Fruit Juice,392,04-07-2022,"₹ 19,640","₹ 7,856","₹ 11,784"
+JioMart,721092,Natural Fruit Juice,32,04-07-2022,"₹ 1,630",₹ 652,₹ 978
+JioMart,682634,Sunbean Coffee Powder,71,04-07-2022,"₹ 1,424",₹ 641,₹ 783
+DMart,194906,Sunbean Coffee Powder,143,06-07-2022,"₹ 2,870","₹ 1,292","₹ 1,578"
+DMart,355733,Sunbean Coffee Powder,75,06-07-2022,"₹ 1,504",₹ 677,₹ 827
+Big Bazaar,566401,Natural Fruit Juice,182,07-07-2022,"₹ 9,130","₹ 3,652","₹ 5,478"
+Star Bazaar,539522,Yippie Noodles,84,08-07-2022,₹ 420,₹ 84,₹ 336
+Reliance Fresh,190154,Dark Fantasy Biscuits,43,08-07-2022,"₹ 1,098",₹ 549,₹ 549
+DMart,529471,Savlon Hand Wash,142,09-07-2022,"₹ 8,550","₹ 3,563","₹ 4,987"
+JioMart,544855,Natural Fruit Juice,514,10-07-2022,"₹ 25,730","₹ 10,292","₹ 15,438"
+Reliance Fresh,770750,Natural Fruit Juice,156,11-07-2022,"₹ 7,840","₹ 3,136","₹ 4,704"
+Star Bazaar,513469,Natural Fruit Juice,329,11-07-2022,"₹ 16,470","₹ 6,588","₹ 9,882"
+Star Bazaar,444725,Dark Fantasy Biscuits,182,11-07-2022,"₹ 4,558","₹ 2,279","₹ 2,279"
+Reliance Fresh,529423,Yippie Noodles,238,15-07-2022,"₹ 1,191",₹ 238,₹ 953
+Star Bazaar,440487,Yippie Noodles,137,15-07-2022,₹ 689,₹ 138,₹ 551
+Star Bazaar,150101,Dark Fantasy Biscuits,163,15-07-2022,"₹ 4,088","₹ 2,044","₹ 2,044"
+Big Bazaar,306694,Natural Fruit Juice,49,16-07-2022,"₹ 2,480",₹ 992,"₹ 1,488"
+Star Bazaar,406234,Bingo Potato Chips,100,17-07-2022,"₹ 1,508",₹ 754,₹ 754
+Big Bazaar,830819,Yippie Noodles,185,18-07-2022,₹ 926,₹ 185,₹ 741
+Big Bazaar,601126,Bingo Potato Chips,164,20-07-2022,"₹ 2,466","₹ 1,233","₹ 1,233"
+Big Bazaar,153144,Bingo Potato Chips,245,21-07-2022,"₹ 3,689","₹ 1,844","₹ 1,845"
+Big Bazaar,203224,Sunbean Coffee Powder,36,22-07-2022,₹ 732,₹ 329,₹ 403
+Star Bazaar,817134,Natural Fruit Juice,525,23-07-2022,"₹ 26,290","₹ 10,516","₹ 15,774"
+Reliance Fresh,764088,Savlon Hand Wash,27,23-07-2022,"₹ 1,638",₹ 683,₹ 955
+Star Bazaar,361699,Sunbean Coffee Powder,146,24-07-2022,"₹ 2,926","₹ 1,317","₹ 1,609"
+Big Bazaar,205484,Natural Fruit Juice,369,25-07-2022,"₹ 18,470","₹ 7,388","₹ 11,082"
+JioMart,137994,Sunbean Coffee Powder,156,25-07-2022,"₹ 3,132","₹ 1,409","₹ 1,723"
+Star Bazaar,758487,Savlon Hand Wash,199,25-07-2022,"₹ 11,964","₹ 4,985","₹ 6,979"
+Star Bazaar,793118,Bingo Potato Chips,77,26-07-2022,"₹ 1,155",₹ 578,₹ 577
+JioMart,711362,Bingo Potato Chips,259,26-07-2022,"₹ 3,899","₹ 1,949","₹ 1,950"
+JioMart,632477,Savlon Hand Wash,63,29-07-2022,"₹ 3,786","₹ 1,578","₹ 2,208"
+Star Bazaar,582048,Natural Fruit Juice,49,30-07-2022,"₹ 2,490",₹ 996,"₹ 1,494"
+Star Bazaar,604462,Dark Fantasy Biscuits,190,30-07-2022,"₹ 4,760","₹ 2,380","₹ 2,380"
+Big Bazaar,356877,Bingo Potato Chips,204,30-07-2022,"₹ 3,071","₹ 1,535","₹ 1,536"
+Reliance Fresh,778039,Natural Fruit Juice,267,31-07-2022,"₹ 13,370","₹ 5,348","₹ 8,022"
+Reliance Fresh,111799,Sunbean Coffee Powder,23,31-07-2022,₹ 470,₹ 212,₹ 258
+Reliance Fresh,721252,Bingo Potato Chips,150,01-08-2022,"₹ 2,256","₹ 1,128","₹ 1,128"
+Star Bazaar,637451,Yippie Noodles,113,02-08-2022,₹ 566,₹ 113,₹ 453
+JioMart,696979,Savlon Hand Wash,280,02-08-2022,"₹ 16,818","₹ 7,008","₹ 9,810"
+Big Bazaar,361276,Sunbean Coffee Powder,274,04-08-2022,"₹ 5,496","₹ 2,473","₹ 3,023"
+Star Bazaar,755930,Dark Fantasy Biscuits,18,05-08-2022,₹ 458,₹ 229,₹ 229
+DMart,219485,Bingo Potato Chips,186,05-08-2022,"₹ 2,795","₹ 1,397","₹ 1,398"
+Star Bazaar,261362,Dark Fantasy Biscuits,276,06-08-2022,"₹ 6,923","₹ 3,461","₹ 3,462"
+JioMart,323754,Dark Fantasy Biscuits,208,06-08-2022,"₹ 5,218","₹ 2,609","₹ 2,609"
+Big Bazaar,146841,Natural Fruit Juice,393,07-08-2022,"₹ 19,650","₹ 7,860","₹ 11,790"
+Big Bazaar,898637,Natural Fruit Juice,399,07-08-2022,"₹ 19,980","₹ 7,992","₹ 11,988"
+Star Bazaar,736328,Dark Fantasy Biscuits,206,07-08-2022,"₹ 5,160","₹ 2,580","₹ 2,580"
+Star Bazaar,215670,Dark Fantasy Biscuits,186,07-08-2022,"₹ 4,665","₹ 2,333","₹ 2,332"
+DMart,345233,Sunbean Coffee Powder,284,07-08-2022,"₹ 5,686","₹ 2,559","₹ 3,127"
+Star Bazaar,735406,Natural Fruit Juice,279,09-08-2022,"₹ 13,960","₹ 5,584","₹ 8,376"
+Reliance Fresh,559510,Natural Fruit Juice,519,09-08-2022,"₹ 25,970","₹ 10,388","₹ 15,582"
+DMart,349645,Savlon Hand Wash,291,09-08-2022,"₹ 17,478","₹ 7,283","₹ 10,195"
+Star Bazaar,602865,Dark Fantasy Biscuits,31,10-08-2022,₹ 775,₹ 388,₹ 387
+JioMart,170761,Natural Fruit Juice,570,11-08-2022,"₹ 28,520","₹ 11,408","₹ 17,112"
+JioMart,533938,Sunbean Coffee Powder,254,11-08-2022,"₹ 5,090","₹ 2,291","₹ 2,799"
+DMart,444955,Yippie Noodles,20,12-08-2022,₹ 102,₹ 20,₹ 82
+DMart,732442,Sunbean Coffee Powder,199,12-08-2022,"₹ 3,984","₹ 1,793","₹ 2,191"
+Reliance Fresh,436748,Natural Fruit Juice,368,14-08-2022,"₹ 18,420","₹ 7,368","₹ 11,052"
+JioMart,823953,Yippie Noodles,119,15-08-2022,₹ 599,₹ 120,₹ 479
+JioMart,366159,Yippie Noodles,180,15-08-2022,₹ 904,₹ 181,₹ 723
+JioMart,560581,Natural Fruit Juice,320,18-08-2022,"₹ 16,030","₹ 6,412","₹ 9,618"
+Star Bazaar,731074,Dark Fantasy Biscuits,275,18-08-2022,"₹ 6,890","₹ 3,445","₹ 3,445"
+Star Bazaar,863607,Sunbean Coffee Powder,28,18-08-2022,₹ 578,₹ 260,₹ 318
+Reliance Fresh,889571,Natural Fruit Juice,298,20-08-2022,"₹ 14,910","₹ 5,964","₹ 8,946"
+Star Bazaar,781275,Natural Fruit Juice,262,20-08-2022,"₹ 13,140","₹ 5,256","₹ 7,884"
+Star Bazaar,748204,Savlon Hand Wash,214,20-08-2022,"₹ 12,858","₹ 5,358","₹ 7,500"
+Star Bazaar,578401,Natural Fruit Juice,141,23-08-2022,"₹ 7,070","₹ 2,828","₹ 4,242"
+JioMart,765655,Sunbean Coffee Powder,292,23-08-2022,"₹ 5,854","₹ 2,634","₹ 3,220"
+Star Bazaar,568366,Natural Fruit Juice,183,24-08-2022,"₹ 9,180","₹ 3,672","₹ 5,508"
+Star Bazaar,317699,Sunbean Coffee Powder,99,24-08-2022,"₹ 1,980",₹ 891,"₹ 1,089"
+Star Bazaar,505218,Yippie Noodles,138,25-08-2022,₹ 692,₹ 138,₹ 554
+Star Bazaar,728960,Sunbean Coffee Powder,162,25-08-2022,"₹ 3,252","₹ 1,463","₹ 1,789"
+Star Bazaar,787606,Sunbean Coffee Powder,51,26-08-2022,"₹ 1,026",₹ 462,₹ 564
+DMart,173001,Yippie Noodles,212,27-08-2022,"₹ 1,062",₹ 212,₹ 850
+DMart,540473,Bingo Potato Chips,122,28-08-2022,"₹ 1,842",₹ 921,₹ 921
+Reliance Fresh,278950,Natural Fruit Juice,221,29-08-2022,"₹ 11,060","₹ 4,424","₹ 6,636"
+Reliance Fresh,374150,Savlon Hand Wash,242,30-08-2022,"₹ 14,556","₹ 6,065","₹ 8,491"
+Star Bazaar,830805,Yippie Noodles,103,31-08-2022,₹ 517,₹ 103,₹ 414
+JioMart,892418,Yippie Noodles,138,31-08-2022,₹ 692,₹ 138,₹ 554
+Reliance Fresh,184366,Bingo Potato Chips,100,31-08-2022,"₹ 1,506",₹ 753,₹ 753
+Star Bazaar,428676,Natural Fruit Juice,328,01-09-2022,"₹ 16,410","₹ 6,564","₹ 9,846"
+Star Bazaar,629559,Sunbean Coffee Powder,20,01-09-2022,₹ 418,₹ 188,₹ 230
+Big Bazaar,566983,Natural Fruit Juice,416,02-09-2022,"₹ 20,830","₹ 8,332","₹ 12,498"
+DMart,852827,Natural Fruit Juice,263,02-09-2022,"₹ 13,160","₹ 5,264","₹ 7,896"
+Star Bazaar,448428,Natural Fruit Juice,472,02-09-2022,"₹ 23,640","₹ 9,456","₹ 14,184"
+Big Bazaar,361541,Bingo Potato Chips,69,02-09-2022,"₹ 1,047",₹ 524,₹ 523
+JioMart,507642,Savlon Hand Wash,70,02-09-2022,"₹ 4,218","₹ 1,758","₹ 2,460"
+Big Bazaar,389356,Natural Fruit Juice,501,04-09-2022,"₹ 25,080","₹ 10,032","₹ 15,048"
+Star Bazaar,138905,Bingo Potato Chips,217,04-09-2022,"₹ 3,258","₹ 1,629","₹ 1,629"
+DMart,350494,Bingo Potato Chips,91,08-09-2022,"₹ 1,365",₹ 683,₹ 682
+Star Bazaar,358353,Natural Fruit Juice,426,09-09-2022,"₹ 21,320","₹ 8,528","₹ 12,792"
+DMart,234290,Natural Fruit Juice,334,09-09-2022,"₹ 16,720","₹ 6,688","₹ 10,032"
+Star Bazaar,761022,Dark Fantasy Biscuits,22,10-09-2022,₹ 570,₹ 285,₹ 285
+Star Bazaar,267107,Dark Fantasy Biscuits,180,10-09-2022,"₹ 4,513","₹ 2,256","₹ 2,257"
+JioMart,655952,Dark Fantasy Biscuits,84,11-09-2022,"₹ 2,113","₹ 1,056","₹ 1,057"
+Star Bazaar,161388,Sunbean Coffee Powder,186,11-09-2022,"₹ 3,728","₹ 1,678","₹ 2,050"
+JioMart,723364,Dark Fantasy Biscuits,246,12-09-2022,"₹ 6,160","₹ 3,080","₹ 3,080"
+JioMart,108848,Bingo Potato Chips,155,12-09-2022,"₹ 2,336","₹ 1,168","₹ 1,168"
+JioMart,881898,Bingo Potato Chips,196,12-09-2022,"₹ 2,954","₹ 1,477","₹ 1,477"
+JioMart,713958,Natural Fruit Juice,312,13-09-2022,"₹ 15,610","₹ 6,244","₹ 9,366"
+Reliance Fresh,626543,Natural Fruit Juice,45,13-09-2022,"₹ 2,270",₹ 908,"₹ 1,362"
+JioMart,745887,Bingo Potato Chips,249,13-09-2022,"₹ 3,741","₹ 1,871","₹ 1,870"
+JioMart,725869,Sunbean Coffee Powder,251,14-09-2022,"₹ 5,030","₹ 2,264","₹ 2,766"
+Big Bazaar,295574,Sunbean Coffee Powder,277,15-09-2022,"₹ 5,558","₹ 2,501","₹ 3,057"
+Big Bazaar,812448,Sunbean Coffee Powder,285,17-09-2022,"₹ 5,714","₹ 2,571","₹ 3,143"
+Star Bazaar,355287,Bingo Potato Chips,222,17-09-2022,"₹ 3,338","₹ 1,669","₹ 1,669"
+DMart,283491,Natural Fruit Juice,89,18-09-2022,"₹ 4,480","₹ 1,792","₹ 2,688"
+Reliance Fresh,128675,Yippie Noodles,218,18-09-2022,"₹ 1,092",₹ 218,₹ 874
+Star Bazaar,853295,Savlon Hand Wash,17,18-09-2022,"₹ 1,032",₹ 430,₹ 602
+Star Bazaar,367956,Savlon Hand Wash,180,18-09-2022,"₹ 10,818","₹ 4,508","₹ 6,310"
+Star Bazaar,763666,Natural Fruit Juice,539,19-09-2022,"₹ 26,990","₹ 10,796","₹ 16,194"
+DMart,326089,Yippie Noodles,20,20-09-2022,₹ 103,₹ 21,₹ 82
+Big Bazaar,633142,Bingo Potato Chips,117,20-09-2022,"₹ 1,758",₹ 879,₹ 879
+Star Bazaar,447945,Savlon Hand Wash,168,22-09-2022,"₹ 10,128","₹ 4,220","₹ 5,908"
+Reliance Fresh,778322,Natural Fruit Juice,109,23-09-2022,"₹ 5,470","₹ 2,188","₹ 3,282"
+Big Bazaar,304458,Dark Fantasy Biscuits,222,23-09-2022,"₹ 5,555","₹ 2,778","₹ 2,777"
+JioMart,882680,Sunbean Coffee Powder,181,23-09-2022,"₹ 3,636","₹ 1,636","₹ 2,000"
+Reliance Fresh,208723,Bingo Potato Chips,93,23-09-2022,"₹ 1,407",₹ 704,₹ 703
+Star Bazaar,667288,Natural Fruit Juice,81,24-09-2022,"₹ 4,090","₹ 1,636","₹ 2,454"
+JioMart,142538,Yippie Noodles,213,24-09-2022,"₹ 1,068",₹ 214,₹ 854
+Big Bazaar,859158,Natural Fruit Juice,345,25-09-2022,"₹ 17,280","₹ 6,912","₹ 10,368"
+Star Bazaar,170867,Dark Fantasy Biscuits,98,25-09-2022,"₹ 2,453","₹ 1,226","₹ 1,227"
+DMart,217808,Savlon Hand Wash,168,26-09-2022,"₹ 10,122","₹ 4,218","₹ 5,904"
+Star Bazaar,676869,Yippie Noodles,145,27-09-2022,₹ 726,₹ 145,₹ 581
+Star Bazaar,355971,Savlon Hand Wash,137,27-09-2022,"₹ 8,268","₹ 3,445","₹ 4,823"
+JioMart,197639,Natural Fruit Juice,271,28-09-2022,"₹ 13,590","₹ 5,436","₹ 8,154"
+JioMart,872825,Natural Fruit Juice,534,28-09-2022,"₹ 26,740","₹ 10,696","₹ 16,044"
+Big Bazaar,369627,Natural Fruit Juice,66,29-09-2022,"₹ 3,340","₹ 1,336","₹ 2,004"
+Reliance Fresh,406431,Sunbean Coffee Powder,71,30-09-2022,"₹ 1,438",₹ 647,₹ 791
+Big Bazaar,289035,Sunbean Coffee Powder,263,30-09-2022,"₹ 5,270","₹ 2,372","₹ 2,898"
+Reliance Fresh,263637,Savlon Hand Wash,244,30-09-2022,"₹ 14,670","₹ 6,113","₹ 8,557"
+Star Bazaar,408804,Natural Fruit Juice,470,03-10-2022,"₹ 23,520","₹ 9,408","₹ 14,112"
+Reliance Fresh,721311,Yippie Noodles,127,03-10-2022,₹ 640,₹ 128,₹ 512
+JioMart,746705,Yippie Noodles,99,03-10-2022,₹ 495,₹ 99,₹ 396
+Star Bazaar,508782,Natural Fruit Juice,288,04-10-2022,"₹ 14,410","₹ 5,764","₹ 8,646"
+Star Bazaar,223911,Savlon Hand Wash,59,04-10-2022,"₹ 3,570","₹ 1,488","₹ 2,082"
+Reliance Fresh,761356,Natural Fruit Juice,419,05-10-2022,"₹ 20,960","₹ 8,384","₹ 12,576"
+Reliance Fresh,421883,Sunbean Coffee Powder,212,05-10-2022,"₹ 4,250","₹ 1,913","₹ 2,337"
+Star Bazaar,565251,Natural Fruit Juice,280,06-10-2022,"₹ 14,020","₹ 5,608","₹ 8,412"
+Star Bazaar,517456,Yippie Noodles,221,08-10-2022,"₹ 1,109",₹ 222,₹ 887
+Reliance Fresh,649737,Sunbean Coffee Powder,221,08-10-2022,"₹ 4,422","₹ 1,990","₹ 2,432"
+Reliance Fresh,514091,Bingo Potato Chips,23,08-10-2022,₹ 356,₹ 178,₹ 178
+DMart,213778,Bingo Potato Chips,281,10-10-2022,"₹ 4,223","₹ 2,111","₹ 2,112"
+Reliance Fresh,833644,Natural Fruit Juice,303,11-10-2022,"₹ 15,150","₹ 6,060","₹ 9,090"
+JioMart,459019,Natural Fruit Juice,260,11-10-2022,"₹ 13,020","₹ 5,208","₹ 7,812"
+JioMart,131249,Dark Fantasy Biscuits,21,12-10-2022,₹ 528,₹ 264,₹ 264
+Big Bazaar,297812,Sunbean Coffee Powder,287,12-10-2022,"₹ 5,746","₹ 2,586","₹ 3,160"
+JioMart,702657,Sunbean Coffee Powder,130,12-10-2022,"₹ 2,610","₹ 1,175","₹ 1,435"
+DMart,178855,Sunbean Coffee Powder,41,14-10-2022,₹ 838,₹ 377,₹ 461
+Star Bazaar,460452,Bingo Potato Chips,218,14-10-2022,"₹ 3,276","₹ 1,638","₹ 1,638"
+Star Bazaar,496123,Natural Fruit Juice,120,15-10-2022,"₹ 6,040","₹ 2,416","₹ 3,624"
+Star Bazaar,271981,Dark Fantasy Biscuits,170,16-10-2022,"₹ 4,273","₹ 2,136","₹ 2,137"
+Big Bazaar,444395,Bingo Potato Chips,112,16-10-2022,"₹ 1,685",₹ 842,₹ 843
+Big Bazaar,462436,Bingo Potato Chips,122,16-10-2022,"₹ 1,839",₹ 920,₹ 919
+Star Bazaar,710711,Natural Fruit Juice,87,17-10-2022,"₹ 4,360","₹ 1,744","₹ 2,616"
+JioMart,235009,Savlon Hand Wash,208,17-10-2022,"₹ 12,534","₹ 5,223","₹ 7,311"
+Big Bazaar,553803,Savlon Hand Wash,201,18-10-2022,"₹ 12,072","₹ 5,030","₹ 7,042"
+Big Bazaar,259455,Natural Fruit Juice,50,19-10-2022,"₹ 2,530","₹ 1,012","₹ 1,518"
+Star Bazaar,878522,Bingo Potato Chips,152,19-10-2022,"₹ 2,285","₹ 1,142","₹ 1,143"
+DMart,296424,Natural Fruit Juice,369,21-10-2022,"₹ 18,480","₹ 7,392","₹ 11,088"
+Star Bazaar,898886,Natural Fruit Juice,182,22-10-2022,"₹ 9,100","₹ 3,640","₹ 5,460"
+DMart,632111,Bingo Potato Chips,93,22-10-2022,"₹ 1,397",₹ 698,₹ 699
+JioMart,483216,Bingo Potato Chips,258,22-10-2022,"₹ 3,875","₹ 1,937","₹ 1,938"
+Star Bazaar,479703,Dark Fantasy Biscuits,140,23-10-2022,"₹ 3,510","₹ 1,755","₹ 1,755"
+JioMart,730844,Savlon Hand Wash,290,24-10-2022,"₹ 17,424","₹ 7,260","₹ 10,164"
+Star Bazaar,216326,Natural Fruit Juice,217,25-10-2022,"₹ 10,880","₹ 4,352","₹ 6,528"
+Star Bazaar,253399,Natural Fruit Juice,537,26-10-2022,"₹ 26,870","₹ 10,748","₹ 16,122"
+Big Bazaar,179673,Yippie Noodles,287,27-10-2022,"₹ 1,437",₹ 287,"₹ 1,150"
+Star Bazaar,480891,Dark Fantasy Biscuits,83,28-10-2022,"₹ 2,095","₹ 1,048","₹ 1,047"
+DMart,572044,Sunbean Coffee Powder,181,28-10-2022,"₹ 3,636","₹ 1,636","₹ 2,000"
+DMart,135967,Savlon Hand Wash,182,28-10-2022,"₹ 10,920","₹ 4,550","₹ 6,370"
+Big Bazaar,779393,Sunbean Coffee Powder,26,29-10-2022,₹ 538,₹ 242,₹ 296
+Big Bazaar,158597,Natural Fruit Juice,277,30-10-2022,"₹ 13,870","₹ 5,548","₹ 8,322"
+Star Bazaar,549329,Natural Fruit Juice,197,01-11-2022,"₹ 9,890","₹ 3,956","₹ 5,934"
+DMart,631270,Natural Fruit Juice,201,02-11-2022,"₹ 10,050","₹ 4,020","₹ 6,030"
+Star Bazaar,754791,Dark Fantasy Biscuits,34,02-11-2022,₹ 855,₹ 428,₹ 427
+Star Bazaar,779079,Yippie Noodles,179,03-11-2022,₹ 896,₹ 179,₹ 717
+Big Bazaar,154432,Yippie Noodles,255,04-11-2022,"₹ 1,277",₹ 255,"₹ 1,022"
+Big Bazaar,390355,Bingo Potato Chips,197,04-11-2022,"₹ 2,955","₹ 1,478","₹ 1,477"
+Star Bazaar,138137,Yippie Noodles,83,05-11-2022,₹ 420,₹ 84,₹ 336
+JioMart,442121,Natural Fruit Juice,213,06-11-2022,"₹ 10,670","₹ 4,268","₹ 6,402"
+JioMart,466133,Natural Fruit Juice,368,06-11-2022,"₹ 18,400","₹ 7,360","₹ 11,040"
+Reliance Fresh,855262,Natural Fruit Juice,127,06-11-2022,"₹ 6,380","₹ 2,552","₹ 3,828"
+JioMart,329257,Sunbean Coffee Powder,228,06-11-2022,"₹ 4,568","₹ 2,056","₹ 2,512"
+Reliance Fresh,613058,Savlon Hand Wash,247,08-11-2022,"₹ 14,820","₹ 6,175","₹ 8,645"
+Star Bazaar,288851,Natural Fruit Juice,133,09-11-2022,"₹ 6,670","₹ 2,668","₹ 4,002"
+Big Bazaar,104326,Dark Fantasy Biscuits,137,09-11-2022,"₹ 3,448","₹ 1,724","₹ 1,724"
+Big Bazaar,894001,Yippie Noodles,225,10-11-2022,"₹ 1,128",₹ 226,₹ 902
+Star Bazaar,788478,Dark Fantasy Biscuits,215,10-11-2022,"₹ 5,388","₹ 2,694","₹ 2,694"
+Reliance Fresh,531834,Natural Fruit Juice,552,11-11-2022,"₹ 27,640","₹ 11,056","₹ 16,584"
+Reliance Fresh,121208,Yippie Noodles,182,11-11-2022,₹ 911,₹ 182,₹ 729
+DMart,102288,Bingo Potato Chips,60,12-11-2022,₹ 900,₹ 450,₹ 450
+Big Bazaar,791359,Bingo Potato Chips,234,13-11-2022,"₹ 3,510","₹ 1,755","₹ 1,755"
+JioMart,640447,Natural Fruit Juice,387,15-11-2022,"₹ 19,360","₹ 7,744","₹ 11,616"
+Big Bazaar,327555,Sunbean Coffee Powder,212,15-11-2022,"₹ 4,242","₹ 1,909","₹ 2,333"
+JioMart,766402,Savlon Hand Wash,150,16-11-2022,"₹ 9,054","₹ 3,773","₹ 5,281"
+Reliance Fresh,691342,Dark Fantasy Biscuits,217,17-11-2022,"₹ 5,440","₹ 2,720","₹ 2,720"
+JioMart,670662,Natural Fruit Juice,563,18-11-2022,"₹ 28,180","₹ 11,272","₹ 16,908"
+DMart,866409,Sunbean Coffee Powder,254,19-11-2022,"₹ 5,086","₹ 2,289","₹ 2,797"
+Star Bazaar,418690,Natural Fruit Juice,234,20-11-2022,"₹ 11,730","₹ 4,692","₹ 7,038"
+Reliance Fresh,505496,Bingo Potato Chips,266,20-11-2022,"₹ 3,995","₹ 1,997","₹ 1,998"
+DMart,305275,Bingo Potato Chips,102,20-11-2022,"₹ 1,539",₹ 770,₹ 769
+JioMart,726489,Natural Fruit Juice,441,25-11-2022,"₹ 22,090","₹ 8,836","₹ 13,254"
+Reliance Fresh,456841,Natural Fruit Juice,444,25-11-2022,"₹ 22,210","₹ 8,884","₹ 13,326"
+DMart,614031,Savlon Hand Wash,118,25-11-2022,"₹ 7,122","₹ 2,968","₹ 4,154"
+Star Bazaar,493427,Dark Fantasy Biscuits,254,26-11-2022,"₹ 6,360","₹ 3,180","₹ 3,180"
+Star Bazaar,277131,Dark Fantasy Biscuits,26,27-11-2022,₹ 660,₹ 330,₹ 330
+DMart,348844,Yippie Noodles,67,29-11-2022,₹ 339,₹ 68,₹ 271
+Big Bazaar,205221,Yippie Noodles,217,29-11-2022,"₹ 1,089",₹ 218,₹ 871
+JioMart,640346,Savlon Hand Wash,238,29-11-2022,"₹ 14,298","₹ 5,958","₹ 8,340"
+Star Bazaar,266868,Natural Fruit Juice,131,30-11-2022,"₹ 6,590","₹ 2,636","₹ 3,954"
+DMart,200053,Yippie Noodles,437,06-12-2022,"₹ 2,188",₹ 438,"₹ 1,750"
+DMart,856865,Savlon Hand Wash,144,08-12-2022,"₹ 8,688","₹ 3,620","₹ 5,068"
+DMart,485947,Bingo Potato Chips,1118,13-12-2022,"₹ 16,776","₹ 8,388","₹ 8,388"
+DMart,819278,Sunbean Coffee Powder,228,19-12-2022,"₹ 4,568","₹ 2,056","₹ 2,512"
+DMart,674043,Savlon Hand Wash,454,26-12-2022,"₹ 27,288","₹ 11,370","₹ 15,918"
+Big Bazaar,429735,Natural Fruit Juice,2230,03-12-2022,"₹ 1,11,520","₹ 44,608","₹ 66,912"
+Big Bazaar,199458,Yippie Noodles,528,06-12-2022,"₹ 2,644",₹ 529,"₹ 2,115"
+Big Bazaar,308620,Natural Fruit Juice,1293,08-12-2022,"₹ 64,680","₹ 25,872","₹ 38,808"
+Big Bazaar,149767,Bingo Potato Chips,806,10-12-2022,"₹ 12,090","₹ 6,045","₹ 6,045"
+Big Bazaar,203608,Natural Fruit Juice,1481,12-12-2022,"₹ 74,080","₹ 29,632","₹ 44,448"
+Big Bazaar,354480,Bingo Potato Chips,862,12-12-2022,"₹ 12,942","₹ 6,471","₹ 6,471"
+Big Bazaar,363822,Bingo Potato Chips,912,13-12-2022,"₹ 13,692","₹ 6,846","₹ 6,846"
+Big Bazaar,885051,Savlon Hand Wash,672,13-12-2022,"₹ 40,320","₹ 16,800","₹ 23,520"
+Big Bazaar,653226,Dark Fantasy Biscuits,148,17-12-2022,"₹ 3,700","₹ 1,850","₹ 1,850"
+Big Bazaar,699845,Bingo Potato Chips,230,17-12-2022,"₹ 3,462","₹ 1,731","₹ 1,731"
+Big Bazaar,246621,Bingo Potato Chips,471,18-12-2022,"₹ 7,068","₹ 3,534","₹ 3,534"
+Big Bazaar,374115,Dark Fantasy Biscuits,824,21-12-2022,"₹ 20,600","₹ 10,300","₹ 10,300"
+Big Bazaar,455780,Natural Fruit Juice,340,22-12-2022,"₹ 17,000","₹ 6,800","₹ 10,200"
+Big Bazaar,336365,Yippie Noodles,524,22-12-2022,"₹ 2,622",₹ 524,"₹ 2,098"
+Big Bazaar,616386,Savlon Hand Wash,576,22-12-2022,"₹ 34,560","₹ 14,400","₹ 20,160"
+Big Bazaar,445507,Yippie Noodles,808,23-12-2022,"₹ 4,044",₹ 809,"₹ 3,235"
+Big Bazaar,666752,Savlon Hand Wash,358,26-12-2022,"₹ 21,480","₹ 8,950","₹ 12,530"
+Big Bazaar,544809,Dark Fantasy Biscuits,868,31-12-2022,"₹ 21,710","₹ 10,855","₹ 10,855"
+Star Bazaar,203604,Yippie Noodles,395,01-12-2022,"₹ 1,978",₹ 396,"₹ 1,582"
+Star Bazaar,636371,Savlon Hand Wash,627,02-12-2022,"₹ 37,632","₹ 15,680","₹ 21,952"
+Star Bazaar,234667,Savlon Hand Wash,900,05-12-2022,"₹ 54,024","₹ 22,510","₹ 31,514"
+Star Bazaar,821698,Dark Fantasy Biscuits,795,06-12-2022,"₹ 19,880","₹ 9,940","₹ 9,940"
+Star Bazaar,140794,Natural Fruit Juice,765,07-12-2022,"₹ 38,280","₹ 15,312","₹ 22,968"
+Star Bazaar,580583,Dark Fantasy Biscuits,980,08-12-2022,"₹ 24,510","₹ 12,255","₹ 12,255"
+Star Bazaar,858624,Dark Fantasy Biscuits,775,10-12-2022,"₹ 19,380","₹ 9,690","₹ 9,690"
+Star Bazaar,387444,Natural Fruit Juice,2100,12-12-2022,"₹ 1,05,040","₹ 42,016","₹ 63,024"
+Star Bazaar,217341,Natural Fruit Juice,195,13-12-2022,"₹ 9,760","₹ 3,904","₹ 5,856"
+Star Bazaar,293863,Natural Fruit Juice,1936,15-12-2022,"₹ 96,840","₹ 38,736","₹ 58,104"
+Star Bazaar,876370,Sunbean Coffee Powder,649,26-12-2022,"₹ 12,992","₹ 5,846","₹ 7,146"
+JioMart,252717,Yippie Noodles,832,01-12-2022,"₹ 4,160",₹ 832,"₹ 3,328"
+JioMart,741765,Yippie Noodles,65,04-12-2022,₹ 328,₹ 66,₹ 262
+JioMart,884057,Dark Fantasy Biscuits,336,06-12-2022,"₹ 8,410","₹ 4,205","₹ 4,205"
+JioMart,571542,Dark Fantasy Biscuits,357,10-12-2022,"₹ 8,930","₹ 4,465","₹ 4,465"
+JioMart,192398,Savlon Hand Wash,804,13-12-2022,"₹ 48,288","₹ 20,120","₹ 28,168"
+JioMart,128044,Sunbean Coffee Powder,1122,17-12-2022,"₹ 22,440","₹ 10,098","₹ 12,342"
+JioMart,414628,Savlon Hand Wash,475,20-12-2022,"₹ 28,536","₹ 11,890","₹ 16,646"
+JioMart,869055,Sunbean Coffee Powder,689,24-12-2022,"₹ 13,792","₹ 6,206","₹ 7,586"
+JioMart,131700,Dark Fantasy Biscuits,770,27-12-2022,"₹ 19,270","₹ 9,635","₹ 9,635"
+JioMart,534742,Natural Fruit Juice,1843,28-12-2022,"₹ 92,160","₹ 36,864","₹ 55,296"
+Reliance Fresh,441751,Dark Fantasy Biscuits,988,03-12-2022,"₹ 24,700","₹ 12,350","₹ 12,350"
+Reliance Fresh,514463,Natural Fruit Juice,1090,07-12-2022,"₹ 54,520","₹ 21,808","₹ 32,712"
+Reliance Fresh,138739,Yippie Noodles,974,09-12-2022,"₹ 4,872",₹ 974,"₹ 3,898"
+Reliance Fresh,115306,Sunbean Coffee Powder,91,13-12-2022,"₹ 1,832",₹ 824,"₹ 1,008"
+Reliance Fresh,275167,Bingo Potato Chips,522,17-12-2022,"₹ 7,830","₹ 3,915","₹ 3,915"
+Reliance Fresh,115582,Natural Fruit Juice,1715,18-12-2022,"₹ 85,760","₹ 34,304","₹ 51,456"
+Reliance Fresh,639651,Bingo Potato Chips,594,18-12-2022,"₹ 8,916","₹ 4,458","₹ 4,458"
+Reliance Fresh,759173,Sunbean Coffee Powder,753,19-12-2022,"₹ 15,072","₹ 6,782","₹ 8,290"
+Reliance Fresh,123331,Yippie Noodles,1505,21-12-2022,"₹ 7,529","₹ 1,506","₹ 6,023"
+Reliance Fresh,872307,Dark Fantasy Biscuits,396,28-12-2022,"₹ 9,900","₹ 4,950","₹ 4,950"
